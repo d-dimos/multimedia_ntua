@@ -1,6 +1,6 @@
 # Multimedia Technology - NTUA (2021-2022)
 
-<p align="center">
+<p align="left">
 	<img alt="Byte Code Size" src="https://img.shields.io/github/languages/code-size/ChristosHadjichristofi/Multimedia-NTUA?color=red" />
 	<img alt="# Lines of Code" src="https://img.shields.io/tokei/lines/github/ChristosHadjichristofi/Multimedia-NTUA?color=red" />
 	<img alt="Top language" src="https://img.shields.io/github/languages/top/ChristosHadjichristofi/Multimedia-NTUA?color=yellow" />
