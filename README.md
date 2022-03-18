@@ -8,3 +8,4 @@
 
 This repository hosts the **semester project** of the Multimedia Technology course held by ECE NTUA during the Winter 2021-2022.
 
+The project was to implement the Hangman Game in Java. 
