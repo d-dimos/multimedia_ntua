@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<?import javafx.scene.control.Label?>
+<?import javafx.scene.layout.AnchorPane?>
+<?import javafx.scene.text.Font?>
+<?import javafx.scene.text.Text?>
+
+
+<AnchorPane prefHeight="500.0" prefWidth="500.0" style="-fx-border-color: #A93226#A93226; -fx-border-width: 6; -fx-background-color: #F5EEF8#F5EEF8;" xmlns="http://javafx.com/javafx/17" xmlns:fx="http://javafx.com/fxml/1" fx:controller="com.example.medialab.MainController">
+   <children>
+      <Text layoutX="38.0" layoutY="221.0" strokeType="OUTSIDE" strokeWidth="0.0" text="For each mistake you make, a body part will appear on the hanging tree. " textAlignment="CENTER" wrappingWidth="423.21630859375">
+         <font>
+            <Font size="19.0" />
+         </font>
+      </Text>
+      <Text layoutX="38.0" layoutY="301.0" strokeType="OUTSIDE" strokeWidth="0.0" text="You can make up to five mistakes before Katniss is fully hung on the tree." textAlignment="CENTER" wrappingWidth="423.21630859375">
+         <font>
+            <Font size="19.0" />
+         </font>
+      </Text>
+      <Text layoutX="45.0" layoutY="110.0" strokeType="OUTSIDE" strokeWidth="0.0" text="Guess the letters of the hidden word and save Katniss from hanging on the tree. Each letter you find will have its position revealed in the word." wrappingWidth="423.21630859375">
+         <font>
+            <Font size="19.0" />
+         </font>
+      </Text>
+      <Label layoutX="120.0" layoutY="31.0" text="Rules of the Game" textFill="RED">
+         <font>
+            <Font name="Roboto Mono Bold Italic for Powerline" size="26.0" />
+         </font>
+      </Label>
+      <Text layoutX="45.0" layoutY="384.0" strokeType="OUTSIDE" strokeWidth="0.0" text="You may find the probabilitities assigned to each next letter helpful..." textAlignment="CENTER" wrappingWidth="423.21630859375">
+         <font>
+            <Font size="19.0" />
+         </font>
+      </Text>
+   </children>
+</AnchorPane>

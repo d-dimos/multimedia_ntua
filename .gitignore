@@ -1,0 +1,10 @@
+*.class
+*.log
+
+*.jar
+*.zip
+*.tar.gz
+*.rar
+
+.idea
+.DS_STORE

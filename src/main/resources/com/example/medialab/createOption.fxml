@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<?import javafx.scene.control.Button?>
+<?import javafx.scene.control.Label?>
+<?import javafx.scene.control.TextField?>
+<?import javafx.scene.layout.AnchorPane?>
+
+<AnchorPane prefHeight="300.0" prefWidth="400.0" style="-fx-background-color: #e6fff7#e6fff7;" xmlns="http://javafx.com/javafx/17" xmlns:fx="http://javafx.com/fxml/1" fx:controller="com.example.medialab.CreateOptionController">
+   <children>
+      <TextField fx:id="DictionaryIdField" layoutX="120.0" layoutY="73.0" />
+      <TextField fx:id="OpenLibraryIdField" layoutX="120.0" layoutY="150.0" />
+      <Button layoutX="177.0" layoutY="220.0" mnemonicParsing="false" onMouseClicked="#DoneButtonClick" text="Done" />
+      <Label layoutX="120.0" layoutY="47.0" prefHeight="26.0" prefWidth="131.0" text="Dictionary ID" />
+      <Label layoutX="120.0" layoutY="123.0" text="OPEN LIBRARY ID" />
+   </children>
+</AnchorPane>
