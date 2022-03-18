@@ -10,4 +10,6 @@ This repository hosts the **semester project** of the Multimedia Technology cour
 
 The project's objective was to implement the Hangman Game in Java.
 
-![test image size]<img src="https://github.com/d-dimos/multimedia_ntua/blob/main/ui.png" width="400" height="400" align="center">
+<p align="center">
+![test image size]<img src="https://github.com/d-dimos/multimedia_ntua/blob/main/ui.png" width="500" height="500">
+</p>
